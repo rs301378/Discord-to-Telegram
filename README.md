@@ -5,5 +5,6 @@ This python script will look at a specific discord channel each message that com
 
 **Requirements: -**
 * Any IDE (VScode)
-* Discord Channel
-* Telegram Channel
+* Python
+* Discord library `pip install discord`
+* Telegram library `pip install python-telegram-bot`
